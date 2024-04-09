@@ -14,4 +14,15 @@ All the core Markdown constructs in GitHub Flavored MarkdownLinks to an external
 Who am I? What do I want to tell them?
 
 
-Hi! My name is Rocky Hankin.
+Hi. My name is Rocky Hankin.
+
+My family has two dogs, one cat, and one turtle. The turtle's not really a pet, he's just always been there on the property, but we put a water bowl out for him.
+
+code block
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
