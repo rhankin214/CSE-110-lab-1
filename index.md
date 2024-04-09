@@ -1,16 +1,3 @@
-This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
-Pictures xx
-All the core Markdown constructs in GitHub Flavored MarkdownLinks to an external site.
-    Headings xx
-    Styling text xx
-    Quoting text xx
-    Quoting code xx
-    External Links xx
-    Section links xx
-    Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.) xx
-    Ordered and Unordered Lists xx
-    Task lists x
-
 ### Rocky Hankin Lore Sheet
 
 [Skip to programming](#who-am-I-as-a-programmer)
@@ -78,26 +65,3 @@ print('Hello world\n');
 ```
 
 You're still here? What are you doing here? Go look at [Zeus](FullSizeR.jpeg).
-
-1. ordered
-2. list
-
-- unordered
-- list
-
-- [x] task
-- [ ] list
-code block
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-> quote text
-
-section link
-[click on this link](#my-multi-word-header)
-### My Multi Word Header
