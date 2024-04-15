@@ -28,19 +28,19 @@ My favorite songs are
 
 My favorite song lyrics are
 
-> I shouted out
-> 'Who killed the Kennedy's?'
-> When after all
-> It was you and me
+> I shouted out <br>
+> 'Who killed the Kennedy's?' <br>
+> When after all <br>
+> It was you and me <br>
 *-Sympathy for the Devil*
 
 Another favorite is
 
-> And the beast was done
-> He asked us,
-> "*snort,* be you angels?"
-> And we said "nay!"
-> "We are but men!"
+> And the beast was done <br>
+> He asked us, <br>
+> "*snort,* be you angels?" <br>
+> And we said "nay!" <br>
+> "We are but men!" <br>
 *-Tribute* <br>
 I have since been informed this is an innuendo.
 
